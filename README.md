@@ -1,5 +1,6 @@
 # MatrixDisplay8x32
 Basic GUI application to show text on 8x32 matrix display with MAX7219
+
 ## Scope
 As for current scope of the project it is to just display the text povided using GUI
 1. Able to show text using GUI to 8x32 matrix
@@ -7,8 +8,8 @@ As for current scope of the project it is to just display the text povided using
 3. Able to show a counter for day, second, minutes
 
 ## Things to do
--[ ] Create arduino serial interface to send command
--[ ] Create GUI using C# and send command to display text
+- [ ] Create arduino serial interface to send command
+- [ ] Create GUI using C# and send command to display text
 
 
 
