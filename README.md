@@ -8,7 +8,7 @@ As for current scope of the project it is to just display the text povided using
 3. Able to show a counter for day, second, minutes
 
 ## Things to do
-- [ ] Create arduino serial interface to send command
+- [ ] Create arduino serial interface to send command - Working on it
 - [ ] Create GUI using C# and send command to display text
 
 
